@@ -1,7 +1,11 @@
-fetch("../data/all_news.json")
+fetch("data/all_news.json")
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById("news");
+    if (!data || data.length === 0) {
+      container.innerHTML = "<p>No news yet for today.</p>";
+      return;
+    }
     data.slice(-10).reverse().forEach(item => {
       const div = document.createElement("div");
       div.className = "card";
@@ -13,4 +17,8 @@ fetch("../data/all_news.json")
       `;
       container.appendChild(div);
     });
+  })
+  .catch(err => {
+    document.getElementById("news").innerHTML = "<p>Error loading news</p>";
+    console.error(err);
   });
