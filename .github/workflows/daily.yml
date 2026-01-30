@@ -1,0 +1,32 @@
+name: Daily Market News Automation
+
+on:
+  schedule:
+    - cron: "30 3 * * *"   # Daily 9:00 AM IST
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run automation
+        run: python scripts/generate_output.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "market-bot"
+          git config user.email "market-bot@users.noreply.github.com"
+          git add .
+          git commit -m "Daily market update" || echo "No changes"
+          git push
