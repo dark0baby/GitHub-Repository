@@ -1111,5 +1111,47 @@
       "Financials"
     ],
     "confidence": "Medium"
+  },
+  {
+    "what": "FIIs ease bearish bets post-Budget, but charts warn of range-bound Nifty: Anand James",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
+  },
+  {
+    "what": "ETMarkets Smart Talk | STT hike weighs on sentiment, but growth-focused Budget supports markets: Naveen Kulkarni",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
   }
 ]
