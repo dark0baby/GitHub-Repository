@@ -5920,5 +5920,68 @@
       "Financials"
     ],
     "confidence": "Medium"
+  },
+  {
+    "what": "IOC, BPCL to HPCL: Oil PSU stocks gain up to 2.5% as crude oil rally loses steam ahead of US-Iran talks this weekend",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
+  },
+  {
+    "what": "US Stock Market: Fed transition in focus as Warsh nears top job amid legal uncertainty",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
+  },
+  {
+    "what": "HDFC Bank, IT majors, and chemical stocks: Where Aditya Shah is hunting for value right now",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
   }
 ]
