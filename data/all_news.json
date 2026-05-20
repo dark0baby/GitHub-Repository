@@ -8734,5 +8734,26 @@
       "Financials"
     ],
     "confidence": "Medium"
+  },
+  {
+    "what": "\u200bBandhan Bank, Urban Company among 18 smallcaps where promoters decreased their stakes in Q4",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
   }
 ]
