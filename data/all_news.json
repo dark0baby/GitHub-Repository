@@ -13732,5 +13732,89 @@
       "Financials"
     ],
     "confidence": "Medium"
+  },
+  {
+    "what": "Bankers kept in dark on LIC\u2019s unusually fast and large $3.3-billion OFS",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
+  },
+  {
+    "what": "Gold rate today at a seven-week high as easing US-Iran tension cools US Fed rate hike buzz",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
+  },
+  {
+    "what": "HAL shares jump over 6%, extend gains for second straight session. What did its annual report reveal?",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
+  },
+  {
+    "what": "Global Market: Prudential shares tumble as China offshore insurance tax report rattles investors",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
   }
 ]
