@@ -16336,5 +16336,47 @@
       "Financials"
     ],
     "confidence": "Medium"
+  },
+  {
+    "what": "ETMarkets Smart Talk | India may see 50 bps of rate hikes in 2026 as Fed tightens: Garima Kapoor",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
+  },
+  {
+    "what": "Rs 23,000 crore outflows! Is the September FII rout indicating a worse end to 2026?",
+    "when": "Recent",
+    "why_it_matters": "Macro or sector-level impact on Indian markets",
+    "past_reaction": "Similar events caused volatility",
+    "rbi_repo": "Possible pressure on RBI stance",
+    "banking": "Short-term impact expected",
+    "large_cap": [
+      "HDFC Bank",
+      "ICICI Bank"
+    ],
+    "mid_cap": [
+      "Federal Bank"
+    ],
+    "small_cap": [],
+    "sectors": [
+      "Banking",
+      "Financials"
+    ],
+    "confidence": "Medium"
   }
 ]
